@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/A1exsandro/xlsx_js/issues"
   },
-  "homepage": "https://github.com/A1exsandro/xlsx_js#readme"
+  "homepage": "https://github.com/A1exsandro/xlsx_js#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
 }
